@@ -4,6 +4,8 @@
 
 [中文](README.md) · English
 
+**[Explore the live portfolio](https://sqq332.github.io/serviceflow-showcase/)** for product screens, the workflow recording and project documentation.
+
 ServiceFlow is a multi-client booking and work order management system for home repair, installation, cleaning and maintenance. It connects customers, technicians and dispatchers in one traceable workflow, demonstrating product scoping, frontend and backend development, a WeChat client and operational analytics.
 
 > This public portfolio repository contains product documentation, actual interface screenshots and a workflow recording. The complete application source is retained by the project owner and is not published in this repository. There is currently no publicly accessible business demo. Screenshots and the recording use fictional business data.
