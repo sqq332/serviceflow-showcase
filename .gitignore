@@ -1,0 +1,27 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Private working files and development output
+private/
+node_modules/
+dist/
+build/
+target/
+coverage/
+test-results/
+*.log
+*.tmp
+*.bak
+
+# Editor and operating-system metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
